@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Somet Kipchilat
 =======================================================================================================================================
 
-Developer Advocate
+Senior Product Mansger 
 ------------------
 
-Somet Kipchilat sits at the forefront of the fastest growing technology industries and market as a Program Manager at Build for Africa @ Google, building the organization’s strategy around programs that support software engineers that build for the African Continent. Previously i served as a Senior Business Development manager for Sub-Saharan Africa under Microsoft\`s Africa Initiative (4Afrika). I played a key role in representing the company externally within the Startup and developer ecosystem on the continent and advocates on Microsoft’s work on several critical issues around technology including Access, skills, privacy, security, accessibility.
+Somet Kipchilat sits at the forefront of the fastest growing technology industries and market as a Senior Product Manager. He previously server as a Programn Manager at Build for Africa @ Google, building the organization’s strategy around programs that support software engineers that build for the African Continent. he also served in a number of diferent capacities at Microsoft\`s Africa Initiative (4Afrika). He played a key role in representing the company externally within the Startup and developer ecosystem on the continent and advocates on Microsoft’s work on several critical issues around technology including Access, skills, privacy, security, accessibility.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [somet@kipchilat.com](mailto:somet@kipchilat.com)
