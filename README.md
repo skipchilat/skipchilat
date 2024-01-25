@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Product Mansger 
 ------------------
 
-Somet Kipchilat sits at the forefront of the fastest growing technology industries and market as a Senior Product Manager. He previously serverd as a Program Manager at Build for Africa @ Google, building the organization’s strategy around programs that support software engineers that build for the African Continent. he also served in a number of diferent capacities at Microsoft\`s Africa Initiative (4Afrika). He played a key role in representing the company externally within the Startup and developer ecosystem on the continent and advocates on Microsoft’s work on several critical issues around technology including Access, skills, privacy, security, accessibility.
+Somet Kipchilat sits at the forefront of the fastest growing technology industries and market as a Product Leader. He previously serverd as a Program Manager at Build for Africa @ Google, building the organization’s strategy around programs that support software engineers that build for the African Continent. he also served in a number of diferent capacities at Microsoft\`s Africa Initiative (4Afrika). He played a key role in representing the company externally within the Startup and developer ecosystem on the continent and advocates on Microsoft’s work on several critical issues around technology including Connectivity, skills, privacy, security and accessibility.
 
-* 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [somet@kipchilat.com](mailto:somet@kipchilat.com)
+* 🌍  Based in Nairobi, Kenya
+* ✉️  Contact me at [somet@kipchilat.com](mailto:somet@kipchilat.com)
 * 🧠  I'm learning Android Dev
 
 <a href="https://www.twitter.com/sometkip" target="_blank" rel="noreferrer"><img
