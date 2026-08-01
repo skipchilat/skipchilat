@@ -1,27 +1,38 @@
-# Hi  I'm Somet Kipchilat
+# Hi, I'm Somet Kipchilat
 
-## Head of Strategic Curiosity
+### CTO & Co-founder · Autoaudit Group
 
-Backend-focused engineer building scalable, production-grade systems in regulated and operationally complex environments.
+I design and lead platforms that make vehicle ownership and insurance transparent and scalable — from assessments to AI-powered inspections across East Africa and beyond.
 
-- 🌍 Based in Kenya
-- 🖥️ Portfolio: [This Kenyan Dev](https://sometkip.com)
+- 🌍 Based in Nairobi, Kenya
+- 🖥️ Portfolio: [sometkip.com](https://sometkip.com)
 - ✉️ Contact: [somet@kipchilat.com](mailto:somet@kipchilat.com)
-- 🧠 Currently learning **Spring Boot**
+- 🧠 Currently building with **C#**, **TypeScript**, **Dart**, and mobile
 
 ---
 
-### What I Work On
+### What I Lead
 
-I design and build structured, API-first platforms with a strong focus on:
+As Group CTO at **Autoaudit Group**, I own product and technology across an AI-enabled motor insurance and automotive ecosystem:
 
-- RESTful services
-- Domain-driven data modeling
-- JWT-based authentication
-- Role-Based Access Control (RBAC)
-- Auditability and soft-delete patterns
-- Clean CRUD + filtering/pagination standards
-- Integration-ready architectures
+- **Q360** — AI-assisted motor assessments, valuations, remote inspections, and fraud / pre-existing damage detection
+- **Axios** — Extended warranty platforms for new and used vehicles
+- **Dotify** — Microdot asset tagging for part identification, theft prevention, and tracking
+- **OLAB** — Adjacent platforms in the same group stack
+
+On panels for major East African insurers; contracts with ride-hailing, fleets, and logistics. Focus: modular, auditable systems that scale across companies and markets.
+
+---
+
+### How I Build
+
+I design structured, API-first platforms with a strong focus on:
+
+- RESTful services and domain-driven data modeling
+- JWT auth, RBAC, auditability, and soft-delete patterns
+- Clean CRUD + filtering / pagination standards
+- AI-augmented workflows (damage detection, valuations, evidence capture)
+- Integration-ready architectures for insurers and partners
 
 I optimize for **durability, clarity, and long-term maintainability** over shortcuts.
 
@@ -29,13 +40,13 @@ I optimize for **durability, clarity, and long-term maintainability** over short
 
 ### Stack
 
-**Backend**
+**Languages & platforms**
 
-- Java
-- .NET
+- C# / .NET
+- TypeScript
+- Dart (mobile)
 - SQL (complex relational schemas)
-- JWT Authentication
-- REST APIs
+- REST APIs · JWT · RBAC
 
 **Architecture**
 
@@ -58,17 +69,29 @@ I optimize for **durability, clarity, and long-term maintainability** over short
 
 ### Background
 
-Experience shaped by engineering cultures at **Google** and **Microsoft**—bringing enterprise-grade thinking into emerging market platforms.
+Technology and product leadership across startups, scale-ups, and global companies — shaped by engineering and partner cultures at **Google** and **Microsoft** (Developer Experience, Technical Evangelism, Partner Development / 4Afrika).
+
+Frequent speaker across East Africa and beyond (AI Kenya, API Festival Nairobi, PyCon Kenya, DroidCon KE, Africa Tech Summit, Microsoft Build, and others).
 
 ---
 
 ### Skills
 
+`C#` · `.NET` · `TypeScript` · `Dart` · `Flutter` · `SQL` · `REST` · `JWT` · `RBAC` · `Azure` · `AI-assisted workflows` · `Product & platform leadership`
+
 ---
 
 ### Socials
+
+- LinkedIn: [linkedin.com/in/skipchilat](https://linkedin.com/in/skipchilat)
+- X / Twitter: [@sometkip](https://x.com/sometkip)
+- Medium: [sometkip.medium.com](https://sometkip.medium.com/)
+- Portfolio: [sometkip.com](https://sometkip.com)
 
 ---
 
 ### GitHub Stats
 
+![Somet's GitHub stats](https://github-readme-stats.vercel.app/api?username=skipchilat&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skipchilat&layout=compact&theme=transparent&hide_border=true&count_private=true)
